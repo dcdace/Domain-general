@@ -1,2 +1,2 @@
 # SST_TNT
-Supramodal (SST and TNT) study
+Domain-general inhibitory control
