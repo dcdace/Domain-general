@@ -12,9 +12,9 @@ sp - Same probe test; ip - Independent probe test; uc - unconditionalised; c  - 
 
 **Figure 5c**: decoding.csv
 
-**Figure 7b-f**: DCM_results.csv
+**Figure 6a-f**: decoding_perRun.csv
 
-**Figure 6**: decoding_perRun.csv
+**Figure 7b-f**: DCM_results.csv
 
 **Figure S4**: decoding_roisEqualSize.csv
 
