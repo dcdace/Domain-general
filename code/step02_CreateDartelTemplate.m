@@ -4,7 +4,7 @@
 % dependencies: SPM12, need to be added to your MATLAB path
 
 rootPath = '..\data';
-subjDir = cellstr(spm_select('FPList',rootPath,'dir','^T_'));
+subjDir = cellstr(spm_select('FPList',rootPath,'dir','^s_'));
 T1location = 'MPRAGE' ;
 
 for subj = 1 : length(subjDir)
