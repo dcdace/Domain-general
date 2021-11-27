@@ -18,6 +18,6 @@ sp - Same probe test; ip - Independent probe test; uc - unconditionalised; c  - 
 
 **Figure S5**: decoding_all_meta_rois.csv
 
---
+
 **For several additional figures see the analysis notebook!**
 --
