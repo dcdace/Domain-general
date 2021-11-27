@@ -1,0 +1,51 @@
+﻿Parcel,Network,X,Y,Z,GVC,BVC,deviation,Parcel description
+1. Right VLPFC & Insula,,,,,,,,
+254,Frontoparietal,53,19,13,0.3469,0.3486,0.6563,R_Area_44
+288,Cingular-Opercular,39,16,6,0.3717,0.3721,0.8907,R_Frontal_Opercular_Area_4
+289,Cingular-Opercular,38,13,1,0.3663,0.3691,0.1172,R_Middle_Insular_Area
+291,Frontoparietal,33,26,-4,0.3289,0.3299,0.3204,R_Anterior_Ventral_Insular_Area
+349,Cingular-Opercular,38,28,4,0.3714,0.3724,0.0078,R_Area_Frontal_Opercular
+Mean,,,,,0.357,0.3584,0.3985,
+Cingular-Opercular,,,,,0.3698,0.3712,0.3386,
+Frontoparietal,,,,,0.3379,0.3393,0.4884,
+2. Right/Left SMA,,,,,,,,
+206,Language,8,19,64,0.3794,0.3819,0.1954,R_Superior_Frontal_Language_Area
+223,Cingular-Opercular,6,6,58,0.3928,0.3951,0.0625,R_Supplementary_And_Cingulate_Eye
+224,Cingular-Opercular,20,7,66,0.3463,0.3477,0.5079,R_Area_6m_anterior
+243,Frontoparietal,5,32,46,0.3692,0.3698,0.2344,R_Area_8BM
+278,Frontoparietal,20,25,57,0.3812,0.3831,1,R_Superior_6-8_Transitional_Area
+Mean,,,,,0.3738,0.3755,0.4,
+3. Left VLPFC & Insula,,,,,,,,
+109,Cingular-Opercular,-37,11,3,0.3519,0.3552,0.2422,L_Middle_Insular_Area
+111,Frontoparietal,-31,25,-3,0.3805,0.3847,0.3438,L_Anterior_Ventral_Insular_Area
+Mean,,,,,0.3662,0.37,0.293,
+4. Right IPL,,,,,,,,
+205,Cingular-Opercular,63,-37,27,0.3789,0.3818,0.1797,R_PeriSylvian_Language_Area
+208,Posterior Multimodal,57,-45,22,0.3609,0.362,0.3282,R_Superior_Temporal_Visual_Area
+328,Cingular-Opercular,60,-30,38,0.3443,0.3446,0,R_Area_PF_Complex
+329,Frontoparietal,51,-50,45,0.3351,0.3361,0.2501,R_Area_PFm_Complex
+Mean,,,,,0.3548,0.3561,0.1895,
+5. Right ACC,,,,,,,,
+239,Cingular-Opercular,4,19,32,0.3716,0.3705,0.8047,R_Anterior_24_prime
+240,Cingular-Opercular,9,15,39,0.3795,0.3783,0.5782,R_Area_p32_prime
+243,Frontoparietal,5,32,46,0.3692,0.3698,0.2344,R_Area_8BM
+359,Cingular-Opercular,9,29,30,0.3592,0.3595,0.9922,R_Area_anterior_32_prime
+Mean,,,,,0.3699,0.3695,0.6524,
+6. Right DLPFC,,,,,,,,
+264,Cingular-Opercular,36,41,30,0.3608,0.3625,0,R_Area_46
+266,Cingular-Opercular,29,50,22,0.375,0.377,0.0547,R_Area_9-46d
+Mean,,,,,0.3679,0.3698,0.0274,
+7. Basal ganglia,,,,,,,,
+,,,,,,,,
+8. Left IPL,,,,,,,,
+148,Cingular-Opercular,-61,-36,36,0.3635,0.3653,0.6875,L_Area_PF_Complex
+149,Frontoparietal,-50,-56,44,0.3767,0.3799,0.1094,L_Area_PFm_Complex
+Mean,,,,,0.3701,0.3726,0.3985,
+9. Right Precentral,,,,,,,,
+190,Cingular-Opercular,44,-2,51,0.3653,0.3667,0.0391,R_Frontal_Eye_Fields
+192,Language,49,2,47,0.3996,0.4007,0.0078,R_Area_55b
+Mean,,,,,0.3825,0.3837,0.0235,
+10. Right SPL,,,,,,,,
+297,Dorsal Attention,38,-38,44,0.3888,0.3899,0.961,R_Anterior_IntraParietal_Area
+324,Frontoparietal,42,-42,46,0.396,0.4011,0.25,R_Area_IntraParietal_2
+Mean,,,,,0.3924,0.3955,0.6055,
