@@ -1,0 +1,33 @@
+﻿Hemisphere,Region,~BA,Network,MNI of the peak,,,Volume 
+,,,,x,y,z,(mm3)
+"a. Within-subjects, Stop > Go & No-Think > Think",,,,,,,
+Right,Inferior frontal gyrus (VLPFC),"44, 45","CON, FPN",45,18,8,5366
+,Insula,,,,,,
+Right,Inferior parietal lobule,40,"CON, FPN, PMM",63,-42,41,3611
+Right,Supplementary motor area,"6, 8","CON, FPN, LAN",15,18,64,2498
+Right,Middle frontal gyrus (DLPFC),"9, 10, 46",CON,33,42,23,1654
+,Superior frontal gyrus (DLPFC),,,,,,
+Right,Precentral gyrus,6,"CON, FPN, LAN",42,3,41,945
+Left,Inferior parietal lobule,40,"CON, FPN",-60,-48,41,641
+"b. Meta-analysis, Stop > Go & No-Think > Think",,,,,,,
+Right,Inferior frontal gyrus (VLPFC),"44, 45","CON, FPN",36,26,0,4523
+,Insula,,,,,,
+Right/Left,Supplementary motor area,"6, 8","CON, FPN, LAN",14,14,60,3071
+Left,Inferior frontal gyrus,"44, 45","CON, FPN",-44,18,0,2970
+,Insula,,,,,,
+Right,Inferior parietal lobule,40,"CON, FPN, PMM",58,-46,34,2633
+Right,Anterior cingulate cortex,"24, 32","CON, FPN",6,22,38,1620
+Right,Middle frontal gyrus (DLPFC),"9, 10, 46",CON,36,50,22,844
+,Superior frontal gyrus (DLPFC),,,,,,
+Right,Basal ganglia,,,16,8,8,776
+Left,Inferior parietal lobule,40,"CON, FPN",-60,-50,34,608
+Right,Precentral gyrus,6,"CON, LAN",44,2,46,270
+Right,Superior parietal lobule,7,"FPN, DAN",34,-48,46,176
+"c. Within-subjects & Meta-analysis, Stop > Go & No-Think > Think",,,,,,,
+Right,Inferior frontal gyrus (VLPFC),"44, 45","CON, FPN",45,18,8,2666
+,Insula,,,,,,
+Right,Inferior parietal lobule,40,"CON, FPN, PMM",63,-42,38,1620
+Right,Supplementary motor area,"6, 8","CON, FPN, LAN",15,18,64,1418
+Right,Middle frontal gyrus (DLPFC),"9, 10, 46",CON,33,39,26,338
+Left,Inferior parietal lobule,40,"CON, FPN",-60,-48,41,270
+Right,Precentral gyrus,6,"CON, LAN",42,3,41,135
