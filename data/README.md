@@ -6,6 +6,8 @@ sp - Same probe test; ip - Independent probe test; uc - unconditionalised; c  - 
 # Data in figures
 **Figure 4a**: behavioural_SST.csv, behavioural_TNT.csv
 
+**Figure 4b**: PLS_LV1.csv
+
 **Figure 5a-b**: PSC_targetROIs.csv
 
 **Figure 5c**: decoding.csv
