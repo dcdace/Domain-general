@@ -24,5 +24,7 @@ sp - Same probe test; ip - Independent probe test; uc - unconditionalised; c  - 
 
 **Figure S6 right**: DCM_results_control_IPL.csv
 
+**Figure S7 & Figure S8**: decoding_confusion_matrices.csv
+
 **For several additional figures see the analysis notebook!**
 --
