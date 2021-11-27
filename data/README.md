@@ -15,10 +15,7 @@ tf - trigger failure
 # Figure 4a
 behavioural_SST.csv, behavioural_TNT.csv
 
-# Figure 5a
-PSC_targetROIs.csv
-
-# Figure 5b
+# Figure 5a-b
 PSC_targetROIs.csv
 
 # Figure 5c
