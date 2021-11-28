@@ -1,4 +1,4 @@
-** Data and code for:**
+**Data and code for:**
 
 Apšvalka, D., Ferreira, C. S., Schmitz, T. W., Rowe, J. B., & Anderson, M. C. (2020). Dynamic targeting enables domain-general inhibitory control over action and thought by the prefrontal cortex. _bioRxiv, 2020.10.22.350520_. https://doi.org/10.1101/2020.10.22.350520 
 
