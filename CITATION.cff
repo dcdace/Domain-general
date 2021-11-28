@@ -1,0 +1,22 @@
+cff-version: 1.1.0
+message: "If you use this data or code, please cite it as below."
+authors:
+  - family-names: Apšvalka
+    given-names: Dace
+    orcid: https://orcid.org/0000-0002-5618-8108
+  - family-names: Ferreira
+    given-names: Catarina S.
+    orcid: http://orcid.org/0000-0003-3858-8113
+  - family-names: Schmitz
+    given-names: Taylor W. 
+    orcid: http://orcid.org/0000-0003-0585-7524
+  - family-names: Rowe
+    given-names: James B. 
+    orcid: http://orcid.org/0000-0001-7216-8679
+  - family-names: Anderson
+    given-names: Michael C.
+    orcid: http://orcid.org/0000-0001-9505-9299
+title: Dynamic targeting enables domain-general inhibitory control over action and thought by the prefrontal cortex (data & code)
+version: v1.1
+doi: 10.5281/zenodo.5732502 
+date-released: 2021-11-27
